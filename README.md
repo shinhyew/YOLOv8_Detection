@@ -1,4 +1,4 @@
-# YOLOv8_Dectection
+# YOLOv8_Detection
 ## 파일 구성
 - best.pt : 최종 학습 모델
 - final_tracking.mp4 : 5초 분량의 객체 감지 및 추적 영상
